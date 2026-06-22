@@ -18,7 +18,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 
 
-const baseUrl = "https://supervalues.org";
+const baseUrl = "https://supervalue.info";
 
 
 

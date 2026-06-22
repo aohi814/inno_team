@@ -48,7 +48,7 @@ export default function InquiryForm() {
         setStatus({
           ok: false,
           message:
-            "Email sending is not configured on the server. Please email contact@supervalues.com directly or try again later.",
+            "Email sending is not configured on the server. Please email contact@supervalue.info directly or try again later.",
         });
       } else if (res.status === 422 && json?.errors) {
         setStatus({ ok: false, message: "Validation failed on the server." });
@@ -148,7 +148,7 @@ export default function InquiryForm() {
         </button>
 
         <a
-          href="mailto:contact@supervalues.com?subject=Supervalue%20LLC%20Inquiry"
+          href="mailto:contact@supervalue.info?subject=Supervalue%20LLC%20Inquiry"
           className="text-sm text-muted-foreground underline hover:text-primary transition-colors"
         >
           Send by email

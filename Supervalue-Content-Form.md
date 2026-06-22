@@ -14,7 +14,7 @@ State of LLC formation:
 **California** ✓
 
 Website URL:  
-**https://supervalues.org** ✓
+**https://supervalue.info** ✓
 
 Tagline (one line):  
 **Strategic IT consulting and talent sourcing for teams that need results—not hype.**
@@ -22,7 +22,7 @@ Tagline (one line):
 _(Alternate options: "Engineering Excellence, Delivered." · "Fast, Accessible, Long-term, and Affordable.")_
 
 Primary email:  
-**contact@supervalues.com** ✓
+**contact@supervalue.info** ✓
 
 Phone (optional):  
 _(Not listed — contact via email or inquiry form)_
@@ -143,7 +143,7 @@ No team page yet.
 ## 6. Legal & Operations
 
 Privacy contact email:  
-**privacy@supervalues.com**
+**privacy@supervalue.info**
 
 Governing law state (usually same as LLC state):  
 **California**
@@ -159,10 +159,10 @@ Cookie consent banner needed (yes / no):
 **Yes** — recommended for US state privacy laws and international visitors
 
 SendGrid sender email:  
-**noreply@supervalues.com** _(verified domain)_ → delivers to **contact@supervalues.com**
+**noreply@supervalue.info** _(verified domain)_ → delivers to **contact@supervalue.info**
 
 GA4 measurement ID (optional):  
-**[TBD — create new property for supervalues.org]**
+**[TBD — create new property for supervalue.info]**
 
 Form consent text:  
 *"We will never sell your contact information. By submitting this form, you agree to our [Privacy Policy](/privacy) and consent to be contacted about your inquiry."*
@@ -178,7 +178,7 @@ Hiring message or CTA:
 **Join Supervalue — build with a remote-first engineering team that values craft, clarity, and client outcomes.**
 
 Careers email or application link:  
-**careers@supervalues.com**
+**careers@supervalue.info**
 
 Open roles (list or "talent network only"):
 

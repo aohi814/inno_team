@@ -26,15 +26,15 @@ const Footer = () => {
             </p>
             <div className="mt-6 flex space-x-4">
               <a
-                href="mailto:contact@supervalues.com"
+                href="mailto:contact@supervalue.info"
                 className="text-muted-foreground hover:text-accent transition-colors"
                 aria-label="Email Supervalue LLC"
               >
                 <Mail size={20} />
               </a>
               <address className="mt-2 flex flex-col space-y-1 text-sm not-italic">
-                <span className="text-muted-foreground">Ridgecrest, CA 93555</span>
-                <span className="text-muted-foreground">Brooklyn, New York 11201</span>
+                <span className="text-muted-foreground">Ridgecrest, CA, USA (HQ)</span>
+                <span className="text-muted-foreground">Brooklyn, New York, USA</span>
               </address>
             </div>
           </div>
